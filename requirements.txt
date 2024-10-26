@@ -1,0 +1,4 @@
+paddlepaddle
+paddleocr
+streamlit
+ultralytics
