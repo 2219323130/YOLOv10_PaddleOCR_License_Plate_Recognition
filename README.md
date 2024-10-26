@@ -72,11 +72,11 @@ Here is an example of how the application works with an uploaded image:
 
 ### Image Processing
 
-![LP-output](https://github.com/user-attachments/assets/10e746a0-6fb6-4fad-b5c3-a6bbd11823d9)
+![LP-output](https://github.com/2219323130/YOLOv10_PaddleOCR_License_Plate_Recognition/blob/main/images/output_image_processing.jpg)
 
 ### Live Feed Processing
 
-![LP-output](https://github.com/user-attachments/assets/10e746a0-6fb6-4fad-b5c3-a6bbd11823d9)
+![LP-output](https://github.com/2219323130/YOLOv10_PaddleOCR_License_Plate_Recognition/blob/main/images/output_live_feed_processing.jpg)
 
 ## Code
 
