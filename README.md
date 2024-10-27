@@ -45,9 +45,9 @@ pip install ultralytics
 
 Dataset can be downloaded at https://universe.roboflow.com/
 
-1.Change the model path
-2.Change the license_plate_label
-3.Change the font_path
+1.Change the model path  
+2.Change the license_plate_label  
+3.Change the font_path  
 
 ### Running the Application
 
