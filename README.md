@@ -43,8 +43,8 @@ pip install ultralytics
 
 ### If you want to train your own license plate detection and recognition model
 
-Dataset can be downloaded at https://universe.roboflow.com/  
-You can be in https://colab.research.google.com/ for model training  
+Dataset can be downloaded at https://universe.roboflow.com/.  
+You can be in https://colab.research.google.com/ for model training.  
 1.Change the model path.    
 2.Change the license_plate_label,you can refer to the image under YOLOv10_PaddleOCR_License_Plate_Recognition\images\license_plate_label.jpg to modify it.   
 3.Change the font_path.  
