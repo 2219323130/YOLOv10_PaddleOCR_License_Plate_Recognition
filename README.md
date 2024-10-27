@@ -38,16 +38,16 @@ pip install ultralytics
 
 ### If you just use my trained model
 
-1.Change the model path, the model file is in YOLOv10_PaddleOCR_License_Plate_Recognition\train\weights\best.pt
-2.Change the font_path,the font file is in YOLOv10_PaddleOCR_License_Plate_Recognition\simfang.ttf
+1.Change the model path, the model file is in YOLOv10_PaddleOCR_License_Plate_Recognition\train\weights\best.pt.
+2.Change the font_path,the font file is in YOLOv10_PaddleOCR_License_Plate_Recognition\simfang.ttf.
 
 ### If you want to train your own license plate detection and recognition model
 
 Dataset can be downloaded at https://universe.roboflow.com/
 
-1.Change the model path  
-2.Change the license_plate_label  
-3.Change the font_path  
+1.Change the model path.    
+2.Change the license_plate_label.   
+3.Change the font_path.  
 
 ### Running the Application
 
